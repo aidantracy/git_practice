@@ -1,0 +1,12 @@
+***************************************************************
+** How to first link project using git and storing on github **
+***************************************************************
+step 1. Create a new repository on github.
+Step 2. create a location to store your project on your local system. 
+step 3. using gitbash, navigate to the location of where your project is.
+Step 4. in github, copy the url of your repository. 
+step 5. in gitbash, use command and past:  git clone <url of repository> 
+step 6. cd into the new file on your local machine
+
+You should now be able to run git commands from this repository 
+Assuming git is already installed on your local machine. 
