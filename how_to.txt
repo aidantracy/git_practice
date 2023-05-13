@@ -9,4 +9,25 @@ step 5. in gitbash, use command and past:  git clone <url of repository>
 step 6. cd into the new file on your local machine
 
 You should now be able to run git commands from this repository 
-Assuming git is already installed on your local machine. 
+Assuming git is already installed on your local machine.
+
+
+**************************************************************
+git commands
+**************************************************************
+
+git log 
+
+- Shows all commits made in this repository 
+
+
+git status 
+
+- shows if files are currently untracked/tracked and displays a command to restore files if necessary
+
+
+git add <file>    or     git add .
+
+- this command will stage specified untracked files or all untracked files
+
+
