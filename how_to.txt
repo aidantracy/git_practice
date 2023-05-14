@@ -31,3 +31,27 @@ git add <file>    or     git add .
 - this command will stage specified untracked files or all untracked files
 
 
+git commit -m "<message>" 
+
+- This will log a commit containing the authors name, email, date, checksum hash, and message. This will  move the pointer containing "HEAD" forward.
+
+git push
+
+- This will push all commits to the github repository.
+
+git branch 
+
+- This shows all current branches 
+
+
+git branch <branchName> 
+
+- This will create a new branch named <branchName> 
+
+git checkout -b <branchName> 
+
+- This will create and switch to the new branch <branchName> 
+
+
+
+
