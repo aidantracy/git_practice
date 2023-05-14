@@ -55,3 +55,19 @@ git checkout -b <branchName>
 
 
 
+************************************************************************************************
+************************************ Merging Branches ******************************************
+************************************************************************************************
+
+Step 1. Create a new branch and switch to it: git checkout -b <newBranch> 
+step 2. Do you work that you need to do in the project
+step 3. Stage and commit work. 
+Step 4. Switch back to the master branch: git checkout master
+step 5. merge the branch to the master : git merge <newBranch>  
+
+If you need to delete the branch: git branch -d <newBranch> 
+
+************************************************************************************************
+
+
+
