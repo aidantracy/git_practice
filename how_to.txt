@@ -70,4 +70,15 @@ If you need to delete the branch: git branch -d <newBranch>
 ************************************************************************************************
 
 
+git pull <remoterepository>
+
+- This will create a pull request from the repository. 
+
+
+
+
+
+
+
+
 
