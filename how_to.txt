@@ -52,6 +52,10 @@ git checkout -b <branchName>
 
 - This will create and switch to the new branch <branchName> 
 
+git log --oneline --decorate --graph --all 
+
+- If there are multiple branches and commits with different branches, this will show a nice model of those branches.
+
 
 
 
